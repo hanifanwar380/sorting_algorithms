@@ -2,8 +2,8 @@
 
 /**
  * main - Entry point
- *
  * Return: Always 0
+ * Author: Hanif Miyanji
  */
 int main(void)
 {
